@@ -1,0 +1,5 @@
+.DS_Store
+papers/references/
+datasets/__MACOSX
+datasets/treeoflife.interactomes/
+datasets/treeoflife.taxonomy/

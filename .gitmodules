@@ -7,3 +7,9 @@
 [submodule "code/ppi_resilience"]
 	path = code/ppi_resilience
 	url = https://hub.fastgit.org/tyn1998/ppi_resilience.git
+[submodule "code/ppi-data-provider"]
+	path = code/ppi-data-provider
+	url = https://hub.fastgit.org/tyn1998/ppi-data-provider.git
+[submodule "code/ppi-galaxy"]
+	path = code/ppi-galaxy
+	url = https://hub.fastgit.org/tyn1998/ppi-galaxy.git
